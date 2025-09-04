@@ -1,0 +1,12 @@
+{
+  "name": "cadastro-clientes",
+  "version": "1.0.0",
+  "description": "Atividade de módulos ES6 - cadastro de clientes e empresa",
+  "main": "clientes.js",
+  "type": "module",
+  "scripts": {
+    "start": "node clientes.js"
+  },
+  "author": "Laura",
+  "license": "ISC"
+}
